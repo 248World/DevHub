@@ -1,49 +1,16 @@
-DevHub — Mobile Job Board for Developers
+# developer_hub
 
-DevHub est une application mobile cross-platform conçue pour connecter les développeurs aux opportunités d'emploi. Elle permet aux recruteurs de publier des offres ciblées et aux candidats de postuler en quelques clics via une interface fluide et intuitive.
-🚀 Fonctionnalités Clés
+A new Flutter project.
 
-    Pour les Candidats : * Consultation des offres d'emploi avec filtres avancés (technologies, localisation, type de contrat).
+## Getting Started
 
-        Système de candidature rapide avec profil utilisateur.
+This project is a starting point for a Flutter application.
 
-        Sauvegarde d'annonces en favoris.
+A few resources to get you started if this is your first Flutter project:
 
-    Pour les Recruteurs : * Dashboard de publication et gestion des offres.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-        Suivi des candidatures reçues.
-
-    Authentification : Connexion sécurisée via Firebase (Email/Password & Social Login).
-
-🛠️ Stack Technique
-
-    Frontend : Flutter & Dart
-
-    Backend & Database : Firebase Firestore (NoSQL)
-
-    Storage : Firebase Storage (pour les CV et images)
-
-    Architecture : Clean Architecture (ou BLoC / Provider, précisez celui que vous avez utilisé)
-
-📦 Installation
-
-Pour tester le projet en local, assurez-vous d'avoir le SDK Flutter installé :
-
-    Cloner le projet :
-    Bash
-
-    git clone https://github.com/248World/devhub-app.git
-
-    Installer les dépendances :
-    Bash
-
-    flutter pub get
-
-    Configurer Firebase :
-
-        Créez un projet sur la console Firebase.
-
-        Ajoutez les fichiers google-services.json (Android) et GoogleService-Info.plist (iOS).
-
-    Lancer l'application :
-    Bash
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
